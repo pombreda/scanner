@@ -1,7 +1,7 @@
 package scanner_test
 
 import (
-  "github.com/Southern/scanner"
+  "github.com/sourcegraph/scanner"
   "io/ioutil"
   "strings"
   "testing"
